@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Felix Zhang<br>💻 Full Stack Developer @Jam3 Inc. <br>💻 Previously Contingent Worker @Meta<br>📫 How to reach me: felix.zhang@jam3.com<br>🌱 Currently learning AWS Solutions Architect
+👋 Hi, I’m Felix Zhang<br>💻 Full Stack Developer @Jam3 Inc. <br>💻 Previously Contingent Worker @Meta<br>📫 How to reach me: felix.zhang@jam3.com<br>🌱 Currently learning: AWS Solutions Architect <br> Probably Memes a bit too much
 
 
 # 💻 Tech Stack:
